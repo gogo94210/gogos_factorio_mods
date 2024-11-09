@@ -1,0 +1,11 @@
+{
+  "name": "Gogos_Electric_Furnace_2x2",
+  "version": "1.0.0",
+  "title": "Gogo's Electric Furnace 2x2",
+  "factorio_version": "2.0",
+  "author": "gogo94210",
+  "contact": "-",
+  "homepage": "onverra",
+  "description": "Resizes the electric furnace entity and sprite to be 2 by 2.",
+  "dependencies": ["base"]
+}
